@@ -7,7 +7,7 @@
                 ||----w |',
                 ||     ||',
 
-[func1](##func1) | [func2](##func2) 
+[func1](## func1) | [func2](## func2) 
 -----------------|-----------------
 
 asdf | asdf
@@ -34,7 +34,6 @@ Markdown | [Less](##func1) | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-
 
 
 
