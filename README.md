@@ -7,7 +7,7 @@
                 ||----w |',
                 ||     ||',
 
-[func1](## func1) | [func2](## func2) 
+[func1](##func1) | [func2](##func2) 
 -----------------|-----------------
 
 asdf | asdf
@@ -37,6 +37,8 @@ Markdown | [Less](##func1) | Pretty
 
 
 
+<a name="func1"></a>
 ## func1
 
+<a name="func2"></a>
 ## func2
