@@ -9,9 +9,11 @@
 
 [func1](##func1 "func1") | [func2](##func2 "func2") | asdf
 [func1](##func1 "func1") | [func2](##func2 "func2") | asdf
+[func1](##func1 "func1") | [func2](##func2 "func2") | asdf
 
 asdf | asdf
 
+asdf | asdf
 asdf | asdf
 asdf | asdf
 
